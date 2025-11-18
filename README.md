@@ -3,7 +3,7 @@
 [![Deploy na Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://desafio-viva-bem-three.vercel.app/)
 
 
-Projeto desenvolvido no curso Fullstack Vai Na Web, com foco na criação de uma página moderna e responsiva sobre exames de rotina, prevenção e autocuidado. Feito com HTML, SCSS e Flexbox, priorizando leveza visual, acessibilidade e bem-estar.
+Projeto desenvolvido no curso Fullstack do Vai Na Web, com foco na criação de uma página moderna e responsiva sobre exames de rotina, prevenção e autocuidado. Feito com HTML, SCSS e Flexbox, priorizando leveza visual, acessibilidade e bem-estar.
 
 🎯 Objetivo
 
