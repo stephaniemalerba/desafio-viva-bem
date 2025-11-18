@@ -19,18 +19,11 @@ Flexbox
 
 Media Queries
 
+
 📱 Responsividade
 
 Layout adaptado para mobile, tablet e desktop usando:
 vh, vw, %, rem e breakpoints.
-
-📁 Estrutura
-/viva-bem
-│── index.html
-│── style.scss
-│── style.css
-│── /img
-└── README.md
 
 
 🚀 Como rodar
